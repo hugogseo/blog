@@ -3,4 +3,4 @@ campeon
 
 react
 
-javascript
+javascript y node
