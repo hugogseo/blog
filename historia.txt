@@ -6,3 +6,5 @@ react.js
 javascript y node
 
 bases de datos mongodb
+
+html y css
